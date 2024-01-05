@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sanjamg.github.io/laconic2024/sitemap.xml
+Sitemap: https://sanjamg.github.io/laconic2024laconic2024//sitemap.xml
